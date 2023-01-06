@@ -1,6 +1,3 @@
-![Coffee](https://www.tastingtable.com/img/gallery/coffee-brands-ranked-from-worst-to-best/l-intro-1645231221.jpg)
-[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
-[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
 
 # Flutter_Coffee
 
@@ -30,9 +27,7 @@ Ios ✔️
 
 ### ✌&ensp;Preview
 
-|               Preview                |                 App                  |
-| :----------------------------------: | :----------------------------------: |
-| ![ezgif com-gif-maker](https://user-images.githubusercontent.com/75315732/166823568-14decf33-2d92-40ae-8951-e7cc42e5da28.gif) | ![w](https://s6.uupload.ir/files/coffee_image_y1r7.png) |
+
 
 
 ## Development Setup
