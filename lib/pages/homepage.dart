@@ -75,11 +75,11 @@ class _CoffeePageState extends State<CoffeePage>
                     width: we * 0.02,
                   ),
                   const Text(
-                    "Lagos,",
+                    "Romolo,",
                     style: TextStyle(
                         fontWeight: FontWeight.bold, color: Colors.black),
                   ),
-                  const Text("Nigeria", style: TextStyle(color: Colors.black)),
+                  const Text("Milano", style: TextStyle(color: Colors.black)),
                   SizedBox(
                     width: we * 0.27,
                   ),
